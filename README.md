@@ -11,3 +11,4 @@ Ensinamentos Estudados
 ## Deploy do projeto
 
 O deploy foi realizado na [Netlify](https://www.netlify.com).
+- [Site do projeto]https://viniciusmaciel-portifolio.netlify.app/
